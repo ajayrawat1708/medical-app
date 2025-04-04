@@ -19,7 +19,7 @@ export default function Navbar() {
     <header className="fixed top-0 bg-white border-b border-gray-400/30 w-full z-50">
       <nav
         aria-label="Global"
-        className="mx-auto flex max-w-7xl items-center justify-between py-2.5 lg:px-8 "
+        className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2.5 lg:px-8 "
       >
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
